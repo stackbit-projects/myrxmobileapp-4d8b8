@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Your personal medical device pharmacist
+    title: Your personal medical device
     subtitle: Stop increasing your healthcare costs!
     content: >
       My Rx Device provides a better way to manage your health devices, find
