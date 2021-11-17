@@ -48,7 +48,7 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
-      - title: On Any Device
+      - title: Instructiona
         title_align: left
         content: >-
           App Land synchronizes across Android and iOS phones, and on your
