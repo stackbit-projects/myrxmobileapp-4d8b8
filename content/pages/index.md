@@ -100,7 +100,7 @@ sections:
         content: >
           Supplement the advice of the prescribing healthcare provider and
           assure proper medical device usage according to manufacturer standards
-          — from now on you don't have to always make the journey down to see a
+          — from now on you don't have to make the journey down to see a
           pharmacist.
         actions:
           - label: Learn More
