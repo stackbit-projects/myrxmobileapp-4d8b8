@@ -5,9 +5,9 @@ sections:
     title: Instantly Boost Your Productivity
     subtitle: Stop increasing your healthcare costs!
     content: >
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+      My Rx Device provides a better way to manage your health devices, find
+      usage information and contact device manufacturers. Take charge of your
+      health with no barriers.
     actions:
       - label: App Store
         url: /pricing
