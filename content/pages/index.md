@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Instantly Boost Your Productivity
+    title: Take charge of your health
     subtitle: Stop increasing your healthcare costs!
     content: >
       My Rx Device provides a better way to manage your health devices, find
