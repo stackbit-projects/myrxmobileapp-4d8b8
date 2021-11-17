@@ -110,7 +110,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: fifty
-      - title: Comprehensive Task List
+      - title: An easy way to connect device users with device manufacturers.
         subtitle: Always be in control
         content: >
           MyRxdevice allows you to store scanned devices for future reference.
