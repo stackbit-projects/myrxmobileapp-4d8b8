@@ -95,7 +95,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Proper Adviee
+      - title: Get Proper Advice
         subtitle: Adapted for a remote experience
         content: >
           Supplement the advice of the prescribing healthcare provider and
