@@ -6,8 +6,8 @@ sections:
     subtitle: Stop increasing your healthcare costs!
     content: >
       My Rx Device provides a better way to manage your health devices, find
-      usage information and contact device manufacturers. Take charge of your
-      health with no barriers.
+      usage information and contact device manufacturers. Save on medicare enjoy
+      same benifts while away from your pharmacist.
     actions:
       - label: App Store
         url: /pricing
