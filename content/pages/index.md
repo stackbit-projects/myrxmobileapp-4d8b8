@@ -96,7 +96,7 @@ sections:
   - type: features_section
     features:
       - title: Syncronized Calendar
-        subtitle: Pos remote experience
+        subtitle: Adapted for a remote work experience
         content: >
           Supplement the advice of the prescribing healthcare provider and
           assure proper medical device usage according to manufacturer standards
