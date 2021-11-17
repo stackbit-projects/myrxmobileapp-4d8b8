@@ -96,7 +96,7 @@ sections:
   - type: features_section
     features:
       - title: Syncronized Calendar
-        subtitle: 'Remote '
+        subtitle: 'For '
         content: >
           Supplement the advice of the prescribing healthcare provider and
           assure proper medical device usage according to manufacturer standards
