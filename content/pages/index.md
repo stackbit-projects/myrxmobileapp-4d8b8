@@ -96,7 +96,7 @@ sections:
   - type: features_section
     features:
       - title: Syncronized Calendar
-        subtitle: For a true remote experience
+        subtitle: ' remote experience'
         content: >
           Supplement the advice of the prescribing healthcare provider and
           assure proper medical device usage according to manufacturer standards
