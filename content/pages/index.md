@@ -7,7 +7,7 @@ sections:
     content: >
       My Rx Device provides a better way to manage your health devices, find
       usage information and contact device manufacturers. Save on medicare and
-      enjoy same benifts while away from your pharmacist.
+      enjoy same benifts while away from your healthcare provider.
     actions:
       - label: App Store
         url: /pricing
