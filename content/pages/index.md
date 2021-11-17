@@ -50,9 +50,9 @@ sections:
         image_position: top
       - title: Instructional Videos
         title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+        content: >
+          My Rx Device bla bla bla bla bla bla blab blalab bla blab bal blab bka
+          blab akn bba. See all your videos and info anywhere you are.
         content_align: left
         actions:
           - label: Learn More
