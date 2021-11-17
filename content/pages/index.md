@@ -69,9 +69,9 @@ sections:
         image_position: top
       - title: Virtual Care
         title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: >
+          My Rx Device bla bla bla bla bla bla blab blalab bla blab bal blab bka
+          blab akn bba. Get a hold of the device manufacturer anywhere you are.
         content_align: left
         actions:
           - label: Learn More
