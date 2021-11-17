@@ -63,11 +63,6 @@
         "secondary_nav_title": "Blog",
         "secondary_nav_links": [
             {
-                "label": "News",
-                "url": "/blog/category/news",
-                "style": "link"
-            },
-            {
                 "label": "Tutorials",
                 "url": "/blog/category/tutorials",
                 "style": "link"
