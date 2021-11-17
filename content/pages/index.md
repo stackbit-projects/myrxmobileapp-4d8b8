@@ -97,9 +97,11 @@ sections:
     features:
       - title: Syncronized Calendar
         subtitle: For true work-life balance
-        content: >-
-          Stop juggling between calendar apps and productivity tools — from now
-          on all your appointments and meetings appear in one place.
+        content: >
+          Supplement the advice of the prescribing healthcare provider and
+          assure proper medical device usage according to manufacturer standards
+          — from now on all you don't have to always make the journey down to
+          see a pharmacist.
         actions:
           - label: Learn More
             url: /pricing
