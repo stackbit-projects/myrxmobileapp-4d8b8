@@ -96,7 +96,7 @@ sections:
   - type: features_section
     features:
       - title: Adapted for a remote experience
-        subtitle: Adapted for a remote experience
+        subtitle: With medical device usage video
         content: >
           Supplement the advice of the prescribing healthcare provider and
           assure proper medical device usage according to manufacturer standards
