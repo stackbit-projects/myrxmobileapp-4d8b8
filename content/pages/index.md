@@ -111,7 +111,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: An easy way to connect device users with device manufacturers.
-        subtitle: Always be in control
+        subtitle: ' in control'
         content: >
           MyRxdevice allows you to store scanned devices for future reference.
           It also offers the ability to
