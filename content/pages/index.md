@@ -175,7 +175,7 @@ sections:
     background_image: images/background.jpg
     background_image_repeat: repeat
     background_image_size: cover
-    background_image_opacity: 100
+    background_image_opacity: 2
 seo:
   title: Stackbit App Theme
   description: The preview of the App theme
