@@ -25,7 +25,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: What's Great My Rx Device?
+    title: What's Great about My Rx Device?
     subtitle: In a Glance
     align: center
     grid_items:
