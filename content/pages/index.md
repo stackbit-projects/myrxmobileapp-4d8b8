@@ -115,11 +115,8 @@ sections:
         subtitle: You are always in control
         content: >
           MyRxdevice allows you to store scanned devices for future reference.
-          It also offers the ability to
-
-
-          contact device manufacturers directly within the App should you have
-          any questions
+          It also offers you the ability to contact device manufacturers
+          directly within the App should you have any questions
         actions:
           - label: Take a look
             url: /pricing
