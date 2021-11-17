@@ -12,6 +12,7 @@ sections:
       - label: App Store
         url: /pricing
         style: primary
+        has_icon: true
       - label: Google Play
         url: /pricing
         style: secondary
