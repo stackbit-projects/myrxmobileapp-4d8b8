@@ -70,8 +70,8 @@ sections:
       - title: Virtual Care
         title_align: left
         content: >
-          My Rx Device bla bla bla bla bla bla blab blalab bla blab bal blab bka
-          blab akn bba. Get a hold of the device manufacturer anywhere you are.
+          My Rx Device bla bla bla bla bla bla blab blalab bla blab bal blab
+          bka. Get a hold of the device manufacturer anywhere you are.
         content_align: left
         actions:
           - label: Learn More
