@@ -113,7 +113,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: fifty
-      - title: An easy way to connect device users with device manufacturers.
+      - title: An easy way to connect with your medical device manufacturer.
         subtitle: You are always in control
         content: >
           MyRxdevice allows you to store scanned devices for future reference.
