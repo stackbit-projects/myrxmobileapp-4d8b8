@@ -154,9 +154,7 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Your personal mobile device pharmacist
-    content: >-
-      Download App Land now and connect with all your calendars, project
-      management tools and task lists — it doesn't get easier than this!
+    content: "Download My Rx Device now and help yourself and loved ones near or far away understand how to properly use their medical devices.\_ — it doesn't get easier than this!\n"
     actions:
       - label: App Store
         url: /pricing
