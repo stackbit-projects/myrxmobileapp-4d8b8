@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Pricing
     subtitle: >-
-      My Rx Device is absolutely free, and offers affordable plans for private,
-      family and business use.
+      My Rx Device is absolutely free, and offers quality content for
+      individuals, family, pharmacists, manufacturers and business use.
     align: center
     padding_top: large
     padding_bottom: small
