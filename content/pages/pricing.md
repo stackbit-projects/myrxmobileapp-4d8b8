@@ -3,8 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Pricing
-    subtitle: >-
-      App Land offers affordable plans for private, family and business use.
+    subtitle: 'My Rx Device offers affordable plans for private, family and business use.'
     align: center
     padding_top: large
     padding_bottom: small
@@ -125,20 +124,20 @@ seo:
   title: Pricing
   description: This is the pricing page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Pricing
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the pricing page
       keyName: property
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Pricing
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the pricing page
 layout: advanced
 ---
