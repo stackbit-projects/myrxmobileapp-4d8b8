@@ -28,29 +28,23 @@ seo:
       relativeUrl: true
 layout: page
 ---
-We are a team of productivity nuts that love to get stuff done without the stress of time management. We work together to optimize workflows, understand use cases and set up our app to be the most productive and useful tool for us, internally, and for you.
+## Why We Exist
 
-![Our team](/images/team.jpg)
+Our goal is to help loved ones with their medical devices even when they are not in front of us.
 
-## Work Life Balance
-
-Our goal is for work and life to be controlled in one place, to help you maintain a zen state of mind.
-
-> "Tasks and deadlines should not control our time. We should control what when to pay attention to which task." -- Lorinda Mamo, Designer
+> "He who has health, has hope; and he who has hope, has everything." -- Thomas Carlyle
 
 With rising chronic disease diagnoses, proper management of health conditions is more important now than ever. Correct use of medical devices is known to improve health outcomes and quality of life.
 
-
-
 ## Why we developed My Rx Device?
 
-With rising chronic disease diagnoses, proper management of health conditions is more important now than ever. Correct use of medical devices is known to improve health outcomes and quality of life. Health care professionals agree that patient understanding of their healthcare interventions improves adherence to treatment. Medical devices usage has become a significant part of these interventions. With technological advancement of medical devices comes the unique challenge of properly educating the end user. 
+With rising chronic disease diagnoses, proper management of health conditions is more important now than ever. Correct use of medical devices is known to improve health outcomes and quality of life. Health care professionals agree that patient understanding of their healthcare interventions improves adherence to treatment. Medical devices usage has become a significant part of these interventions. With technological advancement of medical devices comes the unique challenge of properly educating the end user.
 
-When we think of medical interventions, our minds tend to imagine medication or surgical treatments. Recent years have shown the medical world that medical intervention often includes the use of devices such as glucose meters, medication delivery pens, inhalers and other advanced ways of delivering medicine and monitoring health in the outpatient setting. Incorrect usage of the devices could lead to increased office visits and possible wasting of medications, further increasing health care costs and delaying desired health outcomes. 
+When we think of medical interventions, our minds tend to imagine medication or surgical treatments. Recent years have shown the medical world that medical intervention often includes the use of devices such as glucose meters, medication delivery pens, inhalers and other advanced ways of delivering medicine and monitoring health in the outpatient setting. Incorrect usage of the devices could lead to increased office visits and possible wasting of medications, further increasing health care costs and delaying desired health outcomes.
 
-As healthcare moves towards telemedicine or virtual care for routine needs, it has become increasingly challenging to healthcare professionals to provide the best teaching on how to use medical devices. 
+As healthcare moves towards telemedicine or virtual care for routine needs, it has become increasingly challenging to healthcare professionals to provide the best teaching on how to use medical devices.
 
-This challenge led to the innovation of the MyRxdevice App. The step by step instructional videos provided will supplement the advice of the prescribing healthcare provider and assure proper usage according to manufacturer standards. Users will be empowered to follow the videos at their own pace, rewinding and reviewing as needed. When questions arise, manufacturer contact information can be found through the app for easy problem solving. 
+This challenge led to the innovation of the MyRxdevice App. The step by step instructional videos provided will supplement the advice of the prescribing healthcare provider and assure proper usage according to manufacturer standards. Users will be empowered to follow the videos at their own pace, rewinding and reviewing as needed. When questions arise, manufacturer contact information can be found through the app for easy problem solving.
 
 ## Endorsed by the best
 
