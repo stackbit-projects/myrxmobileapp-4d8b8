@@ -92,9 +92,11 @@ sections:
           languages are on the roadmap and should be rolled out by the end of
           the 2022.
       - title: Is my mobile phone supported?
-        content: |
-          Absolutely. Both native iOS and Android apps are supported and work
-          seamlessly with My Rx Device.
+        content: >
+          Absolutely. Both iOS and Android versions of the app are supported and
+          work
+
+          seamlessly.
       - title: Will my tasks be marked as done on their platform?
         content: |-
           As soon as you complete a task, App Land updates your task lists on
