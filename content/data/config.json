@@ -34,7 +34,8 @@
                 "url": "/pricing",
                 "style": "secondary"
             }
-        ]
+        ],
+        "logo": "/images/logo-ba3f06aa.svg"
     },
     "footer": {
         "logo": "/images/myrxdevice_logo.png",
