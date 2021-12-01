@@ -91,7 +91,7 @@ sections:
           My Rx Device currently supports English. Other
           languages are on the roadmap and should be rolled out by the end of
           the 2022.
-      - title: Do you support native iPhone apps?
+      - title: Is my mobile phone supported?
         content: |
           Absolutely. Both native iOS and Android apps are supported and work
           seamlessly with My Rx Device.
