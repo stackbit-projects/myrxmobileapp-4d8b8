@@ -92,9 +92,9 @@ sections:
           languages are on the roadmap and should be rolled out by the end of
           the year.
       - title: Do you support native iPhone apps?
-        content: |-
+        content: |
           Absolutely. Both native iOS and Android apps are supported and work
-          seamlessly with App Land.
+          seamlessly with My Rx Device.
       - title: Will my tasks be marked as done on their platform?
         content: |-
           As soon as you complete a task, App Land updates your task lists on
