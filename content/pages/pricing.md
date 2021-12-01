@@ -87,10 +87,10 @@ sections:
     title: FAQ
     grid_items:
       - title: Can I use multiple languages?
-        content: |-
-          App Land currently supports English, Spanish, German and French. Other
+        content: |
+          My Rx Device currently supports English. Other
           languages are on the roadmap and should be rolled out by the end of
-          the year.
+          the 2022.
       - title: Do you support native iPhone apps?
         content: |
           Absolutely. Both native iOS and Android apps are supported and work
