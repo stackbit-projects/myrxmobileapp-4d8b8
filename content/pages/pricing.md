@@ -86,7 +86,7 @@ sections:
   - type: grid_section
     title: FAQ
     grid_items:
-      - title: Can I use multiple languages?
+      - title: Does it support multiple languages?
         content: |
           My Rx Device currently supports English. Other
           languages are on the roadmap and should be rolled out by the end of
